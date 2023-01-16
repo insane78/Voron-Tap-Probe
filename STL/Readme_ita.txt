@@ -18,5 +18,5 @@
   . Eliminata zona magnete halleffector, non indicata per chi lo usa o usa endstop x sul giunto
 
 
-- Tap_Center_InsaneMod
+- Tap_Front
   . Migliorati i fori e annegate meglio le viti, non vi sono problemi a usare hotend masp

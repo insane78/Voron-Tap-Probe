@@ -18,5 +18,5 @@
   . Eliminated halleffector magnet area, not indicated for those who use it or use endstop x on the joint
 
 
-- Tap_Center_InsaneMod
+- Tap_Front
   . Improved the holes and drowned the screws better, there are no problems using masp hotend
