@@ -10,8 +10,16 @@
   . ok per chi usa magnete halleffector o endstop x su giunto
 
 
+- Tap_Center_Insane_R4_EPDM_NO_HALL_MAGNET
+  Basata su R$6, per chi utilizza cinghie EPDM che sono piu spesse
+  . migliorati i fori
+  . migliorato il passaggio cavi
+  . migliorata adesione al carrello mgn12
+  . Eliminata zona magnete halleffector, non indicata per chi lo usa o usa endstop x sul giunto
+
+
 - Tap_Center_Insane_R6_STD_NO_HALL_MAGNET
-  Basata su R&, per chi utilizza cinghie EPDM che sono piu spesse
+  Basata su R6, per chi utilizza cinghie standard
   . migliorati i fori
   . migliorato il passaggio cavi
   . migliorata adesione al carrello mgn12
